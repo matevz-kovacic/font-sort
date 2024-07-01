@@ -1,6 +1,6 @@
 # Font Sorting System
 
-This project is a system for sorting fonts according to visual similarity [see blog post](https://ideatum.ai/blog/better-font-list). It consists of three main scripts:
+This project is a system for sorting fonts according to visual similarity [see blog post](https://ideatum.ai/blog/better-font-list.html). It consists of three main scripts:
 - `font_harvester.py`: Downloads Google Fonts and stores them locally. Users can also add their own fonts.
 - `font_features.py`: Computes visual features for each font.
 - `font_sort.py`: Sorts fonts based on visual similarity and produces a sorted font list and font specimens.
